@@ -36,7 +36,7 @@ if ((document.body && document.body.firstChild.tagName == 'PRE' && document.quer
                    "javascript", ["js", "json"],
                    "objc", ["m", "mm"],
                    "perl", ["pl", "pm", "perl"],
-                   "php", ["php", "phtml", "phps"],
+                   "php", ["php", "phtml", "phps", "module", "inc", "test"],
                    "python", ["py"],
                    "ruby", ["rakefile", "gemfile", "rb"],
                    "html", ["htm", "html", "xhtml"],
